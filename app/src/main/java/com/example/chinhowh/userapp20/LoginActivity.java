@@ -77,9 +77,11 @@ public class LoginActivity extends AppCompatActivity {
                     Log.e("text","onDestroy()="+e.toString());
                 }
 
+                /*
                 Intent intent = new Intent();
                 intent.setClass(LoginActivity.this, MainActivity.class);
                 startActivity(intent);
+                */
 
 
             }
