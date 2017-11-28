@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UserApp 2.0</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">settings</string>
+    <string name="title_event">event</string>
+    <string name="title_weather">weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="test_home">fragment_home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="test_event">fragment_event</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="test_weather">fragment_weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="test_settings">fragment_settings</string>
+
+</resources>
